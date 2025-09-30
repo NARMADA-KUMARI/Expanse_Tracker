@@ -1,2 +1,3 @@
-# Expanse_Tracker
-An Expanse tracker flutter application.
+# expenses_tracker
+
+A new Flutter project.
